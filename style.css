@@ -5,7 +5,7 @@ body {
 footer {
     color: #361626;
     background-color: #ff98cb;
-    width: 5%;
+    width: auto;
     height: auto;
     border: 5px solid #e960a5;
     padding: 5px;
