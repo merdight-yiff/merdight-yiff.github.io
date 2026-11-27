@@ -2,12 +2,22 @@ body {
     background-color: #ffcbe5;
 }
 
-footer {
+nav {
+    color: #361626;
+    background-color: #ff98cb;
+    width: 10%;
+    height: auto;
+    border: 5px solid #e960a5;
+    padding: 5px;
+    text-align: center;
+}
+
+main {
     color: #361626;
     background-color: #ff98cb;
     width: auto;
     height: auto;
-    border: 5px solid #e960a5;
-    padding: 5px;
+    border: 10px solid #e960a5;
+    padding: 15px;
     text-align: center;
 }
